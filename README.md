@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stepolive
 - 👀 I’m interested in new technologies to discover patterns and relationships in hetereogenous datasets from drug discovery
-- 🌱 I’m currently learning how to setup a Neo4J database for chemogenomic data.
+- 🌱 I’m currently developping in Cuda to adapt a version of hierarchical clustering from different molecular representation 
 
 
 <!---
